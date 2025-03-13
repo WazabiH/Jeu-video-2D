@@ -1,4 +1,4 @@
-# Jeu-vid-o-2D
+# Jeu-video-2D
 
 1) Afficher menu pause avec le SO
 2) +boutons pour relancer
